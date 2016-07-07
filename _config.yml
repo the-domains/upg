@@ -1,0 +1,14 @@
+layout_spectrum: 0.6853553559631109
+typography_spectrum: 0.03847830928862095
+color:
+  brandStrength: 0.7559169493615627
+  lightness: 0.9804624684620649
+  saturation: 0.7844013005960733
+  rhythmicContrast: 0.8811283286195248
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: UPG
